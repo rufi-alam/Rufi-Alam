@@ -1,3 +1,4 @@
+![logo](https://github.com/rufi-alam/Rufi-Alam/blob/main/pc-code-facebook-cover.jpg)
 <h1 align="center">Hi 👋, I'm Rufi Alam</h1>
 <h3 align="center">A passionate Software engineer from India</h3>
 
